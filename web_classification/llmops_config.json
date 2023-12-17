@@ -2,19 +2,19 @@
     "envs":[
                 {
                     "ENV_NAME": "pr",
-                    "RUNTIME_NAME": "cenk-runtime",
+                    "RUNTIME_NAME": "",
                     "KEYVAULT_NAME": "",
-                    "RESOURCE_GROUP_NAME": "rg-cenkgurbetai",
-                    "WORKSPACE_NAME": "cenkgurbet-5511",
+                    "RESOURCE_GROUP_NAME": "",
+                    "WORKSPACE_NAME": "",
                     "STANDARD_FLOW_PATH": "flows/experiment",
                     "EVALUATION_FLOW_PATH": "flows/evaluation"
                 },
                 {
                     "ENV_NAME": "dev",
-                    "RUNTIME_NAME": "cenk-runtime",
+                    "RUNTIME_NAME": "",
                     "KEYVAULT_NAME": "",
-                    "RESOURCE_GROUP_NAME": "rg-cenkgurbetai",
-                    "WORKSPACE_NAME": "cenkgurbet-5511",
+                    "RESOURCE_GROUP_NAME": "",
+                    "WORKSPACE_NAME": "",
                     "STANDARD_FLOW_PATH": "flows/experiment",
                     "EVALUATION_FLOW_PATH": "flows/evaluation, flows/evaluation_adv"
                 }
